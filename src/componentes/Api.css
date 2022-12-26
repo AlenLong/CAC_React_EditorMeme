@@ -1,0 +1,67 @@
+
+
+.contenedor{
+
+width: 800px !important;
+
+
+}
+
+.titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 45px;
+    margin: 0;
+    background-color: rgb(32, 73, 238);
+    color: rgb(255, 255, 255);
+}
+
+.subti{
+
+    font-family:'Courier New', Courier, monospace;
+
+}
+.menu {
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    border: 1px black solid;
+    background-color: rgb(164, 60, 12);
+    color: white;
+  } 
+
+  .img {
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.texto {
+    padding: 0 5px;
+    background-color: white;
+    font-size: 30px;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.boton{
+    font-family:'Courier New', Courier, monospace;
+width: 200px;
+justify-content: center;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
